@@ -1,4 +1,4 @@
-#<main>
+# <main>
 
 Represents the dominant content of the `<body>` of a document.
 
