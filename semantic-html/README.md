@@ -10,6 +10,25 @@
 2. screen readers can use them
 3. the code can be easier understood by developers
 
+# `<header>`
+
+Represents introductory content.
+
+Used to define the header for a document or a section.
+
+It is usuall intended to contain the section's heading (h1-h6) but this is not required.
+
+It may contain some heading elements, a logo, navigation elements, search form, author name
+
+You can have several `<header>` elements in one document.
+
+A `<header>` tag cannot be placed within a `<footer>`,`<address>` or another `<header>` element.
+
+# `<nav>`
+
+Defines a set of navigation links (sidebar, navigation bar, or drop-down menu).
+
+A document can have several `<nav>` elements.
 
 # `<main>`
 
